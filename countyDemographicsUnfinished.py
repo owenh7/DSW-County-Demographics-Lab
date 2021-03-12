@@ -11,7 +11,7 @@ def main():
     print(state_with_most_counties(counties))
     print(your_interesting_demographic_function(counties))
 
-def alphabetically_first_county(counties):
+def alphabetically_first_county("Autauga County"):
     """Return the county with the name that comes first alphabetically."""
     #Hint: you can use < to compare strings in Python. ex) "cat" < "dog" gives the value True
     
