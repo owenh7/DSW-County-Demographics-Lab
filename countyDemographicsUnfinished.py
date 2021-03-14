@@ -50,7 +50,12 @@ else:
     
 def high_income_counties(counties):
     """Return a LIST of the counties with a median household income over $90,000."""
-
+for Income.Median Houseold Income in python_obj["Median Houseold Income"]:
+    if Income.Median Houseold Income < "90000":
+        value = County["value"]
+        break
+else:
+    value = "County"
 
 #To earn higher than a 3, complete one or both of the functions below
 def state_with_most_counties(counties):
