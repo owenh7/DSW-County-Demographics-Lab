@@ -23,15 +23,30 @@ else:
     
 def percent_most_under_18(counties):
     """Return the highest percent of under 18 year olds."""    
-    
+      for Age.Percent Under 18 Years in python_obj["Percent Under 18 Years"]:
+    if Age.Percent Under 18 Years < "Percent Under 18 Years":
+        value = Age.Percent Under 18 Years["value"]
+        break
+else:
+    value = "Percent Under 18 Years"
 
 def county_most_under_18(counties):
     """Return the NAME of a county with the highest percent of under 18 year olds."""
-    
+       for Age.Percent Under 18 Years in python_obj["Percent Under 18 Years"]:
+    if Age.Percent Under 18 Years < "Percent Under 18 Years":
+        value = County["value"]
+        break
+else:
+    value = "County"
     
 def lowest_median_income(counties):
     """Return a name of a county with the lowest median household income"""
-    
+     for Income.Median Houseold Income in python_obj["Median Houseold Income"]:
+    if Income.Median Houseold Income > "Median Houseold Income":
+        value = County["value"]
+        break
+else:
+    value = "County"
     
 def high_income_counties(counties):
     """Return a LIST of the counties with a median household income over $90,000."""
