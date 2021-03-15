@@ -16,6 +16,7 @@ def alphabetically_first_county(counties):
     #Hint: you can use < to compare strings in Python. ex) "cat" < "dog" gives the value True
    for County in python_obj["County"]:
     if County < "County":
+        return County
         value = County["value"]
         break
 else:
